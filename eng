@@ -17,3 +17,5 @@ yum list installed
 How to update the repository
 apt update
 yum update
+adding 
+the update
