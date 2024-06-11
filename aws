@@ -1,0 +1,19 @@
+package manager 
+It is used to install the packages/dependencies
+Syntax: 
+For debian/ubuntu package manager is apt
+apt install packagename
+
+for redhat/centos package manager is yum
+yum install packagename
+
+How do you list all the installed packages?
+For debian/ubuntu
+apt list installed
+
+for redhat/centos
+yum list installed
+
+How to update the repository
+apt update
+yum update
